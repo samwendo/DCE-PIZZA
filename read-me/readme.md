@@ -1,3 +1,6 @@
 # 
 
 # DCE PIZZA,
+
+# AUTHOR
+* SAM WENDO
