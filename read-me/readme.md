@@ -13,4 +13,8 @@ Pizza webpage that has functions to choose the size and ingredients and calculat
 
 * Direct link: 
 * Clone from github
-* Open with html
+* Open with 
+
+# Known Bugs
+
+* N0 KNOWN BUGS
