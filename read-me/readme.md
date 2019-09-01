@@ -27,3 +27,11 @@ If you would like to get a hold me, please email me at WENDOSAM21@gmail.com
      * +254700082835
 
 * Please check  to see more of my work.
+
+# Technologies Used
+
+* Html
+* CSS
+* BOOTSTRAP
+* JavaScript
+* Jquery
