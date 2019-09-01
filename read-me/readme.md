@@ -35,3 +35,9 @@ If you would like to get a hold me, please email me at WENDOSAM21@gmail.com
 * BOOTSTRAP
 * JavaScript
 * Jquery
+
+# License
+
+MIT license
+
+Copyright (c) 2019 **_SAM WENDO_**
