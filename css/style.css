@@ -1,6 +1,6 @@
 body
 {
-    background-image: url(https://www.yourphx.com/wp-content/uploads/sites/102/2019/08/AdobeStock_239687801.jpeg?w=2560&h=1440&crop=1);
+    background-image: url(https://images.pexels.com/photos/1082342/pexels-photo-1082342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-size: cover;
 
     background-position: center;
@@ -15,17 +15,17 @@ body
 .img1
 {
   width: 100%;
-  height: 490px;
+  height: 650px;
 }
 .img2
 {
   width: 100%;
-  height: 490px;
+  height: 650px;
 }
 .img3
 {
   width: 100%;
-  height: 490px;
+  height: 650px;
 }
 
 
@@ -106,7 +106,7 @@ li a:hover:not(.active) {
 width: 100px;
 }
 .ob{
-  
+
 }
 .no{
   border: 1px solid;
